@@ -52,3 +52,13 @@ Console.WriteLine($"\nThe area of a circle with the radis of {radius} is {calcul
 #endregion
 
 
+#region Thought Exercise
+
+var i = 3;
+var j = 4;
+var k = ++i * j++;
+
+Console.WriteLine($"Variable k is {k}."); // ouput is 16, the second incremental is ignored because it is a post-increment to 'j'. If it were a pre-increment, the output would change to 20.
+
+
+#endregion
