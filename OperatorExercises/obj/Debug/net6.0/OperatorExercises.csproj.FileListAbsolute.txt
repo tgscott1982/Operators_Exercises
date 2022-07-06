@@ -1,0 +1,15 @@
+C:\Users\Travis\source\repos\Operators\OperatorExercises\obj\Debug\net6.0\OperatorExercises.csproj.AssemblyReference.cache
+C:\Users\Travis\source\repos\Operators\OperatorExercises\obj\Debug\net6.0\OperatorExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Travis\source\repos\Operators\OperatorExercises\obj\Debug\net6.0\OperatorExercises.AssemblyInfoInputs.cache
+C:\Users\Travis\source\repos\Operators\OperatorExercises\obj\Debug\net6.0\OperatorExercises.AssemblyInfo.cs
+C:\Users\Travis\source\repos\Operators\OperatorExercises\obj\Debug\net6.0\OperatorExercises.csproj.CoreCompileInputs.cache
+C:\Users\Travis\source\repos\Operators\OperatorExercises\bin\Debug\net6.0\OperatorExercises.exe
+C:\Users\Travis\source\repos\Operators\OperatorExercises\bin\Debug\net6.0\OperatorExercises.deps.json
+C:\Users\Travis\source\repos\Operators\OperatorExercises\bin\Debug\net6.0\OperatorExercises.runtimeconfig.json
+C:\Users\Travis\source\repos\Operators\OperatorExercises\bin\Debug\net6.0\OperatorExercises.dll
+C:\Users\Travis\source\repos\Operators\OperatorExercises\bin\Debug\net6.0\OperatorExercises.pdb
+C:\Users\Travis\source\repos\Operators\OperatorExercises\obj\Debug\net6.0\OperatorExercises.dll
+C:\Users\Travis\source\repos\Operators\OperatorExercises\obj\Debug\net6.0\refint\OperatorExercises.dll
+C:\Users\Travis\source\repos\Operators\OperatorExercises\obj\Debug\net6.0\OperatorExercises.pdb
+C:\Users\Travis\source\repos\Operators\OperatorExercises\obj\Debug\net6.0\OperatorExercises.genruntimeconfig.cache
+C:\Users\Travis\source\repos\Operators\OperatorExercises\obj\Debug\net6.0\ref\OperatorExercises.dll
