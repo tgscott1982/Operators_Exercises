@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace OperatorExercises;
 
     public static class Operator
+
     {
         public static double AreaOfCircle(double radius)
     {
